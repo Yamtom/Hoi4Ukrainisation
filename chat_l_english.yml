@@ -1,0 +1,6 @@
+﻿l_english:
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ Приєднався."
+ CHAT_USERDISCONNECTED:0 "$NAME$ відключився."
+ CHAT_USERWASBANNED:0 "$NAME$ був забанений."
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ покинув канал."
+ CHAT_CHANNEL_GENERAL:0 "Загальний"

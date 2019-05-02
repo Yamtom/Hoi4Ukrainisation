@@ -1,0 +1,10 @@
+﻿l_english:
+ ST:0 "-а"
+ ND:0 "-а"
+ RD:0 "-а"
+ TH:0 "-а"
+ WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ Війна"
+ CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ Громадянська Війна"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ Війна за повернення регіону $STATE$"
+ WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ Агресія для захоплення регіону $STATE$"
+ WAR_NAME_ITA_ETH:0 "Італійська війна проти Ефіопії"
