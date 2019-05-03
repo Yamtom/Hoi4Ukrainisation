@@ -1,8 +1,8 @@
 ﻿l_english:
  ABILITY_TOOLTIP_NAME:0 "$NAME|H$"
- ABILITY_TOOLTIP_NAME_CANCEL:0 "§RCancel: $NAME|H$§!"
+ ABILITY_TOOLTIP_NAME_CANCEL:0 "§RСкасувати: $NAME|H$§!"
  ABILITY_TOOLTIP_COST:0 "Command Power Cost: $VALUE|H$"
- ABILITY_TOOLTIP_DETAILED_COST:0 "    - Base cost: $VALUE|H2$ (each for $UNITS|H0$ battalions)"
+ ABILITY_TOOLTIP_DETAILED_COST:0 "    - Базова вартість: $VALUE|H2$ (за кожен з $UNITS|H0$ батальйонів)"
  ABILITY_TOOLTIP_DAILY_COST:0 "Command Power Daily Cost: $VALUE|H2$"
  ABILITY_TOOLTIP_ALLOCATION:0 "Command Power Allocation: $VALUE|H2$"
  ABILITY_TOOLTIP_NOT_ENOUGH_CP:0 "§RNot enough command power.§!"
